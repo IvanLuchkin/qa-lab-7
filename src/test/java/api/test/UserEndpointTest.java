@@ -50,4 +50,5 @@ public class UserEndpointTest {
                 .and()
                 .statusCode(201);
     }
+
 }
